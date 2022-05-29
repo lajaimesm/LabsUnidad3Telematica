@@ -55,20 +55,27 @@ a
 ![image](https://user-images.githubusercontent.com/53051430/170848013-5a5272ae-337c-4722-836e-9e7ee8843989.png)  
 ## Gestión de archivos hacia HDFS y AWS S3 (Lab1)  
 ### Hacia HDFS via SSH  
-* Entrar a la isntancia del master con el comando ssh
+* Entrar a la isntancia del master con el comando SSH
 ![image](https://user-images.githubusercontent.com/53051430/170850389-3c2f7fb1-181e-47b4-9c02-3073f52375b5.png)
 * Acceder mediante el super usuario
 ![image](https://user-images.githubusercontent.com/53051430/170850392-cb8c9467-c44a-48f3-9279-ef8c97ef547a.png)
-* Crear el directorio  para guardar los archivos en el hdfs
+* Crear el directorio  para guardar los archivos en el HDFS
 ![image](https://user-images.githubusercontent.com/53051430/170850394-f310a46e-8a8c-4d8b-ae64-0859b65e40a7.png)
-* Con este comando se suben los archivos de la ruta especificada al hdfs
+* Con este comando se suben los archivos de la ruta especificada al HDFS
 ![image](https://user-images.githubusercontent.com/53051430/170850402-81b9873f-58d2-4682-b766-5f63f49ca69c.png)
 ![image](https://user-images.githubusercontent.com/53051430/170850410-4a6f0abb-529b-41e0-9ccb-9d069809588a.png)
-![image](https://user-images.githubusercontent.com/53051430/170850411-ca6f3061-e9f9-4c56-b2bd-c81a77ae18fa.png)
-
+* Confirmar que los archivos si se subieron
+![image](https://user-images.githubusercontent.com/53051430/170850411-ca6f3061-e9f9-4c56-b2bd-c81a77ae18fa.png)  
 ### Hacia HDFS via HUE  
-
+* Seleccionar archivo y subirlo
+![image](https://user-images.githubusercontent.com/53051430/170850893-33db6aca-8032-4284-9cc8-e6f0cf9871a3.png)
 ### Hacia AWS S3 via SSH  
+* Copiar los archivos de HSFS a S3
+![image](https://user-images.githubusercontent.com/53051430/170851154-e9ce5411-64d0-4492-b4b4-8132402cc486.png)  
+![image](https://user-images.githubusercontent.com/53051430/170851170-1d839453-c4b2-48f3-b33b-99c17848c526.png)  
+![image](https://user-images.githubusercontent.com/53051430/170851171-59562842-244e-4266-ab6c-3dc32f1c2c74.png)  
+* Confirmacion que los archivos se subieron  
+![image](https://user-images.githubusercontent.com/53051430/170851200-53bf34b3-0ac7-4bc4-8246-15a8450e4106.png)  
 ### Hacia AWS S3 via HUE  
 
 
