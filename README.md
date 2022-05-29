@@ -67,7 +67,8 @@ a
 * Confirmar que los archivos si se subieron
 ![image](https://user-images.githubusercontent.com/53051430/170850411-ca6f3061-e9f9-4c56-b2bd-c81a77ae18fa.png)  
 ### Hacia HDFS via HUE  
-* Seleccionar archivo y subirlo
+* Seleccionar el archivo y subirlo
+![image](https://user-images.githubusercontent.com/53051430/170851499-b9010592-50b5-4d0b-adaa-6a36532f6d5a.png)  
 ![image](https://user-images.githubusercontent.com/53051430/170850893-33db6aca-8032-4284-9cc8-e6f0cf9871a3.png)
 ### Hacia AWS S3 via SSH  
 * Copiar los archivos de HSFS a S3
@@ -77,6 +78,9 @@ a
 * Confirmacion que los archivos se subieron  
 ![image](https://user-images.githubusercontent.com/53051430/170851200-53bf34b3-0ac7-4bc4-8246-15a8450e4106.png)  
 ### Hacia AWS S3 via HUE  
+* Seleccionar el archivo y subirlo
+![image](https://user-images.githubusercontent.com/53051430/170851476-7bd2e798-00a4-468c-8d4e-d03c1db8b6f6.png)  
+![image](https://user-images.githubusercontent.com/53051430/170851425-a1d19c70-2d05-4c9f-8a78-3b4e0ecf070a.png)
 
 
 
