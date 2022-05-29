@@ -83,4 +83,9 @@ a
 ![image](https://user-images.githubusercontent.com/53051430/170851425-a1d19c70-2d05-4c9f-8a78-3b4e0ecf070a.png)
 
 
+### Bucket S3
+[Link del bucket publico](https://labtelematicaluisangel.s3.amazonaws.com/datasetshadoop/)  
+[Link de ejemplo](https://labtelematicaluisangel.s3.amazonaws.com/datasetshadoop/AbrahamLincoln___LincolnLetters.txt)
+
+
 
