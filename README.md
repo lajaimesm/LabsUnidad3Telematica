@@ -54,9 +54,22 @@ a
 * Zeppelin no necesita logearse  
 ![image](https://user-images.githubusercontent.com/53051430/170848013-5a5272ae-337c-4722-836e-9e7ee8843989.png)  
 ## Gestión de archivos hacia HDFS y AWS S3 (Lab1)  
-### Hacia HDFS via HUE  
 ### Hacia HDFS via SSH  
-### Hacia AWS S3 via HUE  
+* Entrar a la isntancia del master con el comando ssh
+![image](https://user-images.githubusercontent.com/53051430/170850389-3c2f7fb1-181e-47b4-9c02-3073f52375b5.png)
+* Acceder mediante el super usuario
+![image](https://user-images.githubusercontent.com/53051430/170850392-cb8c9467-c44a-48f3-9279-ef8c97ef547a.png)
+* Crear el directorio  para guardar los archivos en el hdfs
+![image](https://user-images.githubusercontent.com/53051430/170850394-f310a46e-8a8c-4d8b-ae64-0859b65e40a7.png)
+* Con este comando se suben los archivos de la ruta especificada al hdfs
+![image](https://user-images.githubusercontent.com/53051430/170850402-81b9873f-58d2-4682-b766-5f63f49ca69c.png)
+![image](https://user-images.githubusercontent.com/53051430/170850410-4a6f0abb-529b-41e0-9ccb-9d069809588a.png)
+![image](https://user-images.githubusercontent.com/53051430/170850411-ca6f3061-e9f9-4c56-b2bd-c81a77ae18fa.png)
+
+### Hacia HDFS via HUE  
+
 ### Hacia AWS S3 via SSH  
+### Hacia AWS S3 via HUE  
+
 
 
